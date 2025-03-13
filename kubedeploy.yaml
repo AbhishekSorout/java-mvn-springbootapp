@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-eta-container
-        image: abhisorout97/myloksaiapp
+        image: loksaieta/sa-wd-webapp
         ports:
         - containerPort: 8080
 ---
